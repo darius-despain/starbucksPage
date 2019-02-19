@@ -1,0 +1,19 @@
+.ui.borderless.topmenu.menu{
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  height: 10px;
+  font-size: 13pt;
+  color: #1e1e1e;
+}
+
+.top_green_bar{
+  background-color: #006341;
+  min-height: 10px;
+}
+
+.main-banner{
+  background-image: url("http://globalassets.starbucks.com/assets/01e1dd5076914ee48f267e376491059c.jpg");
+  background-position: center;
+  min-height: 400px;
+}
