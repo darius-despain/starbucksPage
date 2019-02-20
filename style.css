@@ -16,4 +16,35 @@
   background-image: url("http://globalassets.starbucks.com/assets/01e1dd5076914ee48f267e376491059c.jpg");
   background-position: center;
   min-height: 400px;
+  color: white;
+  padding-top: 125px;
+}
+
+.black-banner{
+  background-color: black;
+  min-height: 150px;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.white-banner{
+  background-color: white;
+  min-height: 150px;
+  color: black;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.green-banner{
+  background-color: #1b3c35;
+  min-height: 150px;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.footer{
+  background-color: white;
+  color: black;
 }
